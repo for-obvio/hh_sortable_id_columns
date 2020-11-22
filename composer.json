@@ -1,0 +1,12 @@
+{
+    "name": "versus/hh_sortable_id_columns",
+    "type": "wordpress-plugin",
+    "license": "GPL-2",
+    "authors": [
+        {
+            "name": "Vladimir Sklyar",
+            "email": "versus.post@gmail.com"
+        }
+    ],
+    "require": {}
+}
